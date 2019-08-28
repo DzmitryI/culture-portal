@@ -2,6 +2,8 @@
 
 ### Task https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-culture-portal.md
 
+### Link https://kavalapka.github.io/culture-portal/
+
 ## How to run project:
 #### npm install
 Install packages
